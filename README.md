@@ -1,2 +1,2 @@
-# project007
+# oilfield_profitability_research
 007. Исследование рентабельности нефтедобычи
